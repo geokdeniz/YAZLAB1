@@ -1,5 +1,5 @@
 #ARRULER
-Bu proje Android ve İOS için unity oratamında geliştirilen bir uygulamadır. Bu uygulama sayesinde sayesinde yatay düzlemde durmakta olan nesnelerin uzunluklarını kıyaslayabilmek/oranlayabilmek amacıyla geliştirilmiştir.
+Bu proje Android ve İOS için unity oratamında geliştirilen bir uygulamadır. Bu uygulama sayesinde yatay düzlemde durmakta olan nesnelerin uzunluklarını kıyaslayabilmek/oranlayabilmek amacıyla geliştirilmiştir.
 
 
 ##KURULUM
