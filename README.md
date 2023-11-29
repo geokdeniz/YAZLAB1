@@ -12,6 +12,6 @@ Uygulamayı kullanmak için aşağıdaki adımları takip edin.
 •	Uygulamayı yükledikten sonra açınız
 •	Uygulama kamera izni isticektir. Gerekli izinleri veriniz.
 •	Sonrasında uygulamanın çevresini tanıması için etrafta ölçüsünü alacağınız alanı gösteriniz.
-•	Ölçü alacağınız noktaları seçiniz. Direk ölçüler noktalar arasında gözükecektir.
+•	Ölçü alacağınız noktaları seçiniz. Direkt ölçüler noktalar arasında gözükecektir.
 •	Yanlış nokta seçildi ise “Geri” tuşuna basarak bir adım geriye gidiniz.
 •	İşlemleriniz bitti ise ve yeni bir yerde ölçüme başlıcaksanız “Sıfırlama” tuşuna basınız. 
